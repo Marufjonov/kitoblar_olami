@@ -27,5 +27,5 @@ Har bobni oddiy bo’sh qatordan ajratib ketaverasan.
 Bu yerda kitob matni oddiy text ko’rinishida ketadi.
 Html, json, taglar kerak emas.
 Har bobni oddiy bo’sh qatordan ajratib ketaverasan.
-
+d
 2-bob. Kichik qadamlar kuchi...
