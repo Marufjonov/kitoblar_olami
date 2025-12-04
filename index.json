@@ -12,20 +12,5 @@
     "price": 0,
     "currency": "UZS",
     "isPremium": false
-  },
-  {
-    "id": "ibn_sino_qonunlari",
-    "title": "Tibb qonunlari",
-    "author": "Abu Ali Ibn Sino",
-    "description": "Ibn Sinoning mashhur tibbiy asari.",
-    "githubFile": "books/ibn_sino_qonunlari.txt",
-
-    "downloadUrl": "https://raw.githubusercontent.com/Marufjonov/kitoblar_olami/main/books/ibn_sino_qonunlari.txt",
-    "coverUrl": "https://raw.githubusercontent.com/Marufjonov/kitoblar_olami/main/covers/atom_odatlar.png",
-
-    "price": 0,
-    "currency": "UZS",
-    "isPremium": false
   }
-]
 
