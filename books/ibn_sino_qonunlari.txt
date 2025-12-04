@@ -1,4 +1,4 @@
-1-bob. Odatlar nimadan boshlanadi?
+Ibn sino
 
 Bu yerda kitob matni oddiy text ko’rinishida ketadi.
 Html, json, taglar kerak emas.
